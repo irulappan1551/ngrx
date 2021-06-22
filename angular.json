@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "ngrx-counter"
+  "defaultProject": "ngrx-counter",
+  "cli": {
+    "analytics": "f142ee7e-fae1-4ef4-9904-f57a489e0009"
+  }
 }
